@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/spineapple0/ kident-tumor-end2end-ml
+Author: spineapple0
+Author-email: tatais691@gmail.com
+Project-URL: Bug Tracker, https://github.com/spineapple0/ kident-tumor-end2end-ml/issues
+
+#kident-tumor-end2end-ml
+End  to end kideny tumor calssificaiton using MlOps
